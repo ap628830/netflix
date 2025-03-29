@@ -1,10 +1,10 @@
-import './App.css';
+import './index.css';
+
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="text-3xl">
-     <h1>App is working fine</h1>
-    </div>
+    <Body/>
   );
 }
 
