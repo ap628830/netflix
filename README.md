@@ -2,10 +2,18 @@
 -npm create-react-app netflix-gpt1
 -configured Tailwind CSS
 - Header
--Login Form
--Sign up form
--Form Validation
+- Login Form
+- Sign up form
+- Form Validation
 - useref Hook
+- firebase setup
+- deploy our app to setup
+- create sign up user Account
+- sign up and sign in using firebase
+- created redux store with userSlice
+- Implemented Signout 
+- Update profile
+- 
 
 #Features
 - LogIn/SignUp
